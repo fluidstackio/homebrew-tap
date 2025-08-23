@@ -2,7 +2,7 @@
 cask "fluidctl" do
   desc "Fluidctl CLI"
   homepage "https://github.com/fluidstackio/atlas"
-  version "0.1.0"
+  version "0.1.1"
 
   livecheck do
     skip "Auto-generated on release."
@@ -12,23 +12,23 @@ cask "fluidctl" do
 
   on_macos do
     on_intel do
-      url "https://github.com/fluidstackio/atlas/releases/download/fluidctl-v0.1.0/fluidctl_Darwin_x86_64.tar.gz"
-      sha256 "f0b0c8dcb24b5c91d508648a91c102bd6805ada0a5ea394af847b388facac462"
+      url "https://github.com/fluidstackio/atlas/releases/download/0.1.1/fluidctl_Darwin_x86_64.tar.gz"
+      sha256 "3026b19ed19fe407eaded7c6581567c9be7679e4c4a7268abe3249bad849a34c"
     end
     on_arm do
-      url "https://github.com/fluidstackio/atlas/releases/download/fluidctl-v0.1.0/fluidctl_Darwin_arm64.tar.gz"
-      sha256 "0fd1abbb91004bbbeac404be5ed5a78b538336bc4630b3906ddebd36e1770418"
+      url "https://github.com/fluidstackio/atlas/releases/download/0.1.1/fluidctl_Darwin_arm64.tar.gz"
+      sha256 "c7f396b65fd4d56e7d5bbd2c4492c7a9c2b98983087e7f6a7ba5c0a325767ebe"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/fluidstackio/atlas/releases/download/fluidctl-v0.1.0/fluidctl_Linux_x86_64.tar.gz"
-      sha256 "a5146fdd80dd761e23141939f49069001fda9f1194cc48dd04424193c1bc8292"
+      url "https://github.com/fluidstackio/atlas/releases/download/0.1.1/fluidctl_Linux_x86_64.tar.gz"
+      sha256 "df93fc23b7c6682cfaf96616e55c6ae0fa0a19da53da788167fe7cbe1b556fe7"
     end
     on_arm do
-      url "https://github.com/fluidstackio/atlas/releases/download/fluidctl-v0.1.0/fluidctl_Linux_arm64.tar.gz"
-      sha256 "3c94c10f5abb38e9f7e3e23258f6f654109bd2cbe3b868ab40f3c5c2d0e3de06"
+      url "https://github.com/fluidstackio/atlas/releases/download/0.1.1/fluidctl_Linux_arm64.tar.gz"
+      sha256 "1efb9f19e14ecc3946a36f69620c41b9ec2da8931813427649f269e71f6720ea"
     end
   end
 
