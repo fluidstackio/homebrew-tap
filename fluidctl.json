@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fluidstackio/atlas-releases/releases/download/fluidctl-v0.2.0/fluidctl_Windows_x86_64.zip",
+            "url": "https://github.com/fluidstackio/atlas-releases/releases/download/fluidctl-v0.2.1/fluidctl_Windows_x86_64.zip",
             "bin": [
                 "fluidctl.exe"
             ],
-            "hash": "06627d0f937f40d65011149593e75e8499d8b4d0f4af93cce88dce8ccb6eaf14"
+            "hash": "23690b45cfcb8840f406a0b5769244d7a4ebea663a278a9f7b2aaa0bd2041e3b"
         },
         "arm64": {
-            "url": "https://github.com/fluidstackio/atlas-releases/releases/download/fluidctl-v0.2.0/fluidctl_Windows_arm64.zip",
+            "url": "https://github.com/fluidstackio/atlas-releases/releases/download/fluidctl-v0.2.1/fluidctl_Windows_arm64.zip",
             "bin": [
                 "fluidctl.exe"
             ],
-            "hash": "4931ab3420af51856e320e6cff8bfe31212887cb878d6ee887afdb6d250f12d4"
+            "hash": "0450aeaba044b6c8e6d0128f26f16a4a9bdc197dcf3abbfe330a453d37a9fe61"
         }
     },
     "homepage": "https://docs.fluidstack.io",
