@@ -6,14 +6,14 @@
             "bin": [
                 "fluidctl.exe"
             ],
-            "hash": "415a48ee3ac676f3bc11e2da12dd84ffe0baba1ca6d4b2bb04fb0f7ed8d5a3cc"
+            "hash": "4f0a416850a13de253fe2b0c8f70b41eadb565d2909ad0b38bff13b03a1e6cad"
         },
         "arm64": {
             "url": "https://github.com/fluidstackio/atlas-releases/releases/download/fluidctl-v0.3.0/fluidctl_Windows_arm64.zip",
             "bin": [
                 "fluidctl.exe"
             ],
-            "hash": "856c0d81067a1c52a1c1753f87f053b80f384b89fc4d8cd0b8a9fa5b9adb12e8"
+            "hash": "701e83d847b40b927318ce5e7cd54c0a0fab04f753eecb6af150cdd9ae797819"
         }
     },
     "homepage": "https://docs.fluidstack.io",
